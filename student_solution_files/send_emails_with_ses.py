@@ -34,7 +34,7 @@ def lambda_handler(event, context):
     # Replace sender@example.com with your "From" address.
     # This address must be verified with Amazon SES.
     # --- Insert your code here ---
-    SENDER = 'sender@example.com'
+    SENDER = 'praisetaiwo@gmail.com'
     # -----------------------------
 
     # Replace recipient@example.com with a "To" address. If your account 
